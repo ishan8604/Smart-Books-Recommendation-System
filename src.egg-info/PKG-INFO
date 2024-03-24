@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A Small pacckage of Smart Books Recommendation System
+Home-page: https://github.com/ishan8604/Smart-Books-Recommendation-System
+Author: ishan8604
+Author-email: ishan860484@gmail.com
+Requires-Python: >=3.11.5
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+Requires-Dist: numpy
+
+Smart Books Recommendation System
+
+A Mini Project for 3rd Year 6th Semester
